@@ -78,9 +78,9 @@ WSGI_APPLICATION = 'monitoring.wsgi.application'
 DATABASES = {
      "default": {
         "ENGINE": "django.db.backends.postgresql_psycopg2",
-        "NAME": "<nombrebd>",
-        "USER": "<usuario>",
-        "PASSWORD": "<clave>",
+        "NAME": "t3db",
+        "USER": "jpmartinezp1",
+        "PASSWORD": "renkaza_kings25",
         "HOST": "localhost",
         "PORT": "",
     }
